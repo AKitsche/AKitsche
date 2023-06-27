@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+.github_posit.txt
 
 /.quarto/

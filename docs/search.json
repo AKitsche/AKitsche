@@ -2,15 +2,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Posts",
     "section": "",
     "text": "About this site"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AKitsche",
+    "title": "Andreas Kitsche",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Email\n  \n  \n     Twitter\n  \n  \n     GitHub\n  \n  \n     Facebook\n  \n  \n     Google Scholar\n  \n\n  \n  \n\n\nHey folks, this web site provides some information about my activities in data science using R.\nI have a Masters degree in Plant Biotechnology with focus on Biostatistics. I earned a PhD at the Institute of Biostatistics at the Leibniz University of Hannover. During my studies I started learning R and wrote some small packages stored on my GitHub page. This blog will showcase some of the analyses I have been doing with different data sets.\nIn addition I propagate and cultivate Bonsai trees for several years. Within this blog I want to document the development of some of my favorite trees."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Andreas Kitsche",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biostatistics institution: Leibniz Unversität Hannover year: 2014\nMSc in Plant Biotechnology institution: Leibniz Unversität Hannover year: 2010\nBSc in Plant Biotechnology institution: Leibniz Unversität Hannover year: 2008"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Andreas Kitsche",
+    "section": "Interests",
+    "text": "Interests\n\nData Visualization\nData Science\nMachine Learning\nBiostatistics"
   }
 ]

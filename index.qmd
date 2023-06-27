@@ -1,7 +1,52 @@
 ---
-title: "AKitsche"
+title: Andreas Kitsche
+subtitle: Data Scientist, Bonsai Enthusiast & Latin Dancer
+image: profile.jpg
+about:
+  template: trestles
+  id: hero-heading
+  image-shape: round
+  image-width: 15em
+  links:
+    - href: mailto:andreaskitsche@gmail.com
+      text: Email
+    - href: https://twitter.com/AKitsche
+      text: Twitter
+    - href: https://github.com/AKitsche
+      text: GitHub
+    - href: https://www.facebook.com/andreas.kitsche?ref=bookmarks
+      text: Facebook
+    - href: https://scholar.google.de/citations?user=rmgQm6EAAAAJ&hl=de
+      text: Google Scholar
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Welcome to my page!
+
+Hey folks, this web site provides some information about my activities in data science using [R](https://cran.r-project.org/).
+
+I have a Masters degree in Plant Biotechnology with focus on Biostatistics. I earned a PhD at the [Institute of Biostatistics](https://www.biostat.uni-hannover.de/biostatistik.html?&L=1) at the [Leibniz University of Hannover](https://www.uni-hannover.de/en/?no_cache=1). During my studies I started learning R and wrote some small packages stored on [my GitHub page](https://github.com/AKitsche). This blog will showcase some of the analyses I have been doing with different data sets.
+
+In addition I propagate and cultivate Bonsai trees for several years. Within this blog I want to document the development of some of my favorite trees.
+
+:::
+
+## Education
+
+- PhD in Biostatistics
+  institution: Leibniz Unversität Hannover
+  year: 2014
+- MSc in Plant Biotechnology
+  institution: Leibniz Unversität Hannover
+  year: 2010
+- BSc in Plant Biotechnology
+  institution: Leibniz Unversität Hannover
+  year: 2008
+  
+## Interests
+
+- Data Visualization
+- Data Science
+- Machine Learning
+- Biostatistics
